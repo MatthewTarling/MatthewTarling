@@ -5,7 +5,7 @@
     <link>https://matthewtarling.github.io/project/</link>
       <atom:link href="https://matthewtarling.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://matthewtarling.github.io/media/icon_hu1eb7ff5a4cbffe3dd5eddd00a7e5f832_3073_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,20 +13,54 @@
     </image>
     
     <item>
-      <title>Mineralogically-banded crack-seal veins</title>
-      <link>https://matthewtarling.github.io/project/example-copy/</link>
-      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://matthewtarling.github.io/project/example-copy/</guid>
-      <description>&lt;p&gt;more stuff about it here&lt;/p&gt;
+      <title>Magnetite microstructures</title>
+      <link>https://matthewtarling.github.io/project/magnetite/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://matthewtarling.github.io/project/magnetite/</guid>
+      <description>&lt;p&gt;The mineral magnetite is a ubiquitous component of serpentinite shears zones. While it might only makes up 5-15% of the serpentinite, it can often occur at critical sites, like along foliation planes or smeared along slip surfaces. Understanding how this magnetite is deforming is key to developing a full picture of slip in serpentinite faults!&lt;/p&gt;
+&lt;p&gt;This EBSD map shows that magnetite can deform in surprising ways, forming incredibly complex microstructures. I am using a range of micro- to nano-analytical techniques to learn how magnetite deforms in serpentinite faults and the role it play in controlling fault deformation behaviour.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Mineralogically-banded crack-seal veins</title>
-      <link>https://matthewtarling.github.io/project/example/</link>
-      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://matthewtarling.github.io/project/example/</guid>
-      <description>&lt;p&gt;more stuff about it here&lt;/p&gt;
+      <title>Cracks and carbonation</title>
+      <link>https://matthewtarling.github.io/project/carbonation/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://matthewtarling.github.io/project/carbonation/</guid>
+      <description>&lt;p&gt;Carbonation reactions are currently being explored as a potential solution for long-term carbon storage. The principle is simple: react CO2, from the atmosphere or some industrial source, with a mineral to form a new mineral in which the carbon is locked away forever in the crystal lattice.&lt;/p&gt;
+&lt;p&gt;Microstructures (cracks, fractures) play a critical role in controlling where these reactions take place. I performed carbonation experiments on cylinders fabricated from single crystals of olivine, which were pervasively fractured by thermal cracking, to try to understand the role that microstructures like fracture network play in controlling reaction distribution and progress.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deciphering cryptic crack-seal veins</title>
+      <link>https://matthewtarling.github.io/project/crack/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://matthewtarling.github.io/project/crack/</guid>
+      <description>&lt;p&gt;New methodologies in serpentinite micro-structural and -mineralogical Raman mapping has led to the discovery of previous unseen fault rocks textures in crack-seal veins, consisting of alternative bands of lizardite and chrysotile. These textures capture new details about the crack-seal process and may be a record of rapid incremental crack opening and a potential signature of micro-earthquakes.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34;
+           src=&#34;https://matthewtarling.github.io/project/crack/andraditeuCT.gif&#34;
+           loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
