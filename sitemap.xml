@@ -6,6 +6,10 @@
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://matthewtarling.github.io/project/mirror/</loc>
+    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://matthewtarling.github.io/outreach/</loc>
     <lastmod>2023-08-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -13,10 +17,19 @@
     <loc>https://matthewtarling.github.io/outreach/motivation/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://matthewtarling.github.io/outreach/involvement/</loc>
+    <loc>https://matthewtarling.github.io/outreach/getinvolved/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://matthewtarling.github.io/outreach/3d-printing-the-viewer/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://matthewtarling.github.io/outreach/assembly/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://matthewtarling.github.io/outreach/polarisers/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://matthewtarling.github.io/outreach/funding/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://matthewtarling.github.io/outreach/acknowledgements/</loc>
@@ -81,14 +94,6 @@
   </url><url>
     <loc>https://matthewtarling.github.io/publication/lee-2020-lattice/</loc>
     <lastmod>2022-10-25T10:55:23-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://matthewtarling.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://matthewtarling.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://matthewtarling.github.io/publication/scott-2019-element/</loc>
