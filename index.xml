@@ -52,37 +52,16 @@
 &lt;li&gt;&lt;strong&gt;EPSC231 Field School I&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Introductory field mapping course. Led 2 week undergraduate field course in Nevada and California designed to introduce students to geological field mapping of tectonically deformed landscapes.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /teaching/prada_hu2a7a86de224dfb1f2a8192af5d0d0b1f_3375405_3fe419cbf1e905818aba55a60a5f96d5.webp 400w,
-               /teaching/prada_hu2a7a86de224dfb1f2a8192af5d0d0b1f_3375405_5fcb3aaa6c4627e9a63fdbdcbfee6ec5.webp 760w,
-               /teaching/prada_hu2a7a86de224dfb1f2a8192af5d0d0b1f_3375405_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://matthewtarling.github.io/teaching/prada_hu2a7a86de224dfb1f2a8192af5d0d0b1f_3375405_3fe419cbf1e905818aba55a60a5f96d5.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;570&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
-&lt;p&gt;McGill EPSC303 Structural geology Fall 2022 students Dana Marino, Abbi Baran, and
-Clara Schryer&lt;/p&gt;
-&lt;p&gt;&lt;video src=&#34;Prada.mp4&#34; controls title=&#34;Title&#34;&gt;&lt;/video&gt;&lt;/p&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;prada.jpg&#34; alt=&#34;Description of the image&#34;&gt;
+  &lt;figcaption&gt;McGill EPSC303 Structural geology Fall 2022 students Dana Marino, Abbi Baran, and Clara Schryer working on developing a rheological model for paraffin wax.&lt;/figcaption&gt;
+&lt;/figure&gt; 
+&lt;figure&gt;
+  &lt;video src=&#34;Prada.mp4&#34; controls title=&#34;Title&#34;&gt;&lt;/video&gt;
+  &lt;figcaption&gt; 
+  Temperature controlled deformation of wax using the Portable Rock-Analog Deformation Apparatus built by Phil Skemer of Washington University
+&lt;/figcaption&gt;
+&lt;/figure&gt;
 &lt;style&gt;
 /* CSS for the Teaching section */
 .image-container {
@@ -90,17 +69,15 @@ Clara Schryer&lt;/p&gt;
   justify-content: space-between;
   margin-top: 20px;
 }
-
-.image-container img {
-  border-radius: 8px;
-  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
-  transition: transform 0.2s;
+&lt;p&gt;.image-container img {
+border-radius: 8px;
+box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+transition: transform 0.2s;
+}&lt;/p&gt;
+&lt;p&gt;.image-container img:hover {
+transform: scale(1.1);
 }
-
-.image-container img:hover {
-  transform: scale(1.1);
-}
-&lt;/style&gt;
+&lt;/style&gt;&lt;/p&gt;
 </description>
     </item>
     
